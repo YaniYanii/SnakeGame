@@ -36,3 +36,12 @@ NOTE : After each navigation, press Enter to confirm the movement.
 * Avoid collisions with the walls or the snake's own body. Collisions will result in game over.
 * The game ends when the snake collides with the walls or itself.
 
+
+# Game Components
+* TestGame - program entry point that contain GameControler object
+* GameControler - Controls the flow of the game and handles user input. controler direction of the snake, 
+* Board - Manages the game board and contain segragation cells reference.  
+* Cell - manage index and contain value (food/snake/empty/wall) 
+* Snake - manage snake body and update related cells. 
+
+
