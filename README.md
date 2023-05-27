@@ -24,10 +24,10 @@ java GameTest
 
 # how  to play
  Use the following controls to navigate the snake:
- 8 : Move the snake up
- 5 : Move the snake down
- 4 : Move the snake left
- 6 : Move the snake right
+ * 8 : Move the snake up
+ * 5 : Move the snake down
+ * 4 : Move the snake left
+ * 6 : Move the snake right
 
 NOTE : After each navigation, press Enter to confirm the movement.
 
